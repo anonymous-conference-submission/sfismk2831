@@ -12,7 +12,21 @@ Real-time music alignment, also known as **score following**, is a fundamental M
 
 ### Real-time videos and Visualization
 
+* Manuel Ponce: Gavota. Score Follower `OnlineTimeWarpingArzt`.
 <video width="640" height="360" controls>
   <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/gavota_arzt_blurred_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+* Manuel Ponce: Gavota. Score Follower `OnlineTimeWarpingDixon`.
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/gavota_dixon_blurred_small.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+* Schumann: Symphonic Etudes Op. 13 Appendix Variation V. Score Follower `OnlineTimeWarpingArzt`.
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/schumann_demo_blurred_small.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
