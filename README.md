@@ -7,6 +7,7 @@ Real-time music alignment, also known as **score following**, is a fundamental M
 ## Supplementary Materials
 
 * [Technical appendix](./technical_appendix.pdf)
+* [An audio comparison of the different score followers](./comparison_examples.html)
 
 ## Demos
 
@@ -29,4 +30,3 @@ Real-time music alignment, also known as **score following**, is a fundamental M
   <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/schumann_demo_blurred_small.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-

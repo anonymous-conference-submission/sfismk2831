@@ -56,3 +56,4 @@ htmlcov/
 
 *.DS_Store
 *~
+audios/audio_files.txt
