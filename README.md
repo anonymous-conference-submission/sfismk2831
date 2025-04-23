@@ -9,9 +9,37 @@ Real-time music alignment, also known as **score following**, is a fundamental M
 * [Technical appendix](./technical_appendix.pdf)
 * [An audio comparison of the different score followers](./comparison_examples.html)
 
+
+
 ## Demos
 
-### Real-time videos and Visualization
+### Visualization
+
+The following videos showcase the real-time visualization described in Section 8 in the paper.
+
+* J. S. Bach: Fugue BWV 858 (performance from ASAP dataset). Score Follower `OLTWDixon`
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/Fugue_bwv_858_VuV01M_dixon.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+* J. S. Bach: Fugue BWV 858 (performance from ASAP dataset). Score Follower `OLTWArzt`
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/Fugue_bwv_858_VuV01M_arzt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+* J. S. Bach: Fugue BWV 858 (performance from ASAP dataset). Score Follower `HMM`
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anonymous-conference-submission/sfismk2831/main/videos/Fugue_bwv_858_VuV01M_hmm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+### Real-time Demos
+
+The following videos showcase score following for a live piano performance.
+
 
 * Manuel Ponce: Gavota. Score Follower `OnlineTimeWarpingArzt`.
 <video width="640" height="360" controls>
